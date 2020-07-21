@@ -1,2 +1,2 @@
 # Digital-Clock
-Its a simple digital clock.
+It's a simple digital clock.
